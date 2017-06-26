@@ -1,5 +1,11 @@
 # HelloPhoenix
 
+## Requirements
+
+Of course you will need Elixir, PostgreSQL and a bunch of other goodness installed. If you are on Mac OS X and have Homebrew installed, you can simply execute `./scripts/install_on_mac_os_x.sh` to install all hard requirements for this project except Node.js (which I am sure you already have, right? ;)).
+
+## Start the app
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
